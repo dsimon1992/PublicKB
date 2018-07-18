@@ -25,7 +25,7 @@ When you enter this page you can see a list with latest months billing summary, 
 
 Some items have a dropdown icon at the beginning, meaning that you can click on it to drill down and see further details on that item appearing below.
 
-For more information about the usage history details see [detailed billing report](../Cloud Optimization/partner-cloud-integration-detailed-billing-report.md).
+For more information about the usage history details see [detailed billing report]|(../Cloud Optimization/partner-cloud-integration-detailed-billing-report.md).
 
 ### Getting General Support
 
